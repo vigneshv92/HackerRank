@@ -1,4 +1,5 @@
-package org.programs.corejava;
+package org.programs.algorithms;
+
 import java.io.*;
 import java.util.*;
 import java.text.*;

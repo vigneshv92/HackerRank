@@ -1,4 +1,4 @@
-package org.programs.corejava;
+package org.programs.algorithms;
 import java.util.*;
 
 public class Puzzle1 {

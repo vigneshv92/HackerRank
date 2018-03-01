@@ -1,4 +1,4 @@
-package org.programs.corejava;
+package org.programs.algorithms;
 
 public class Recursive {
 	

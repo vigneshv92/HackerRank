@@ -1,4 +1,5 @@
-package org.programs.corejava;
+package org.programs.algorithms;
+
 
 import java.util.ArrayList;
 import java.util.Iterator;

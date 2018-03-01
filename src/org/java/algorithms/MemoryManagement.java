@@ -1,5 +1,4 @@
-package org.programs.corejava;
-
+package org.programs.algorithms;
 public class MemoryManagement {
 
 	public static void main(String[] args) {
